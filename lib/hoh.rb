@@ -30,7 +30,7 @@
 #   sub_category: nil
 # }
 
-giant_hash = {}
+hash= {}
   #  Kingdom
   #  Phylum
   #  Class
