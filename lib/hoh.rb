@@ -30,8 +30,7 @@
 #   sub_category: nil
 # }
 
-def naming_system
-  # Remember:
+giant_hash = {}
   #  Kingdom
   #  Phylum
   #  Class
